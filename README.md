@@ -107,7 +107,7 @@ This process is pretty straightforward. You just have to run the following comma
 ```
 git clone https://github.com/Ericaemiliana/Would-You-Rather_game.git
 cd would_you_rather
-3npm install                    # Or yarn install
+npm install                    # Or yarn install
 npm start                       # Or yarn start
 
 ```
