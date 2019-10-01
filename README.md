@@ -104,8 +104,11 @@ The code talks to the database via 4 methods:
 ## Running the application
 
 This process is pretty straightforward. You just have to run the following commands to get in order.
+```
 git clone https://github.com/Ericaemiliana/Would-You-Rather_game.git
 cd would_you_rather
-npm install                     # Or yarn install
+3npm install                    # Or yarn install
 npm start                       # Or yarn start
+
+```
 And you will have the application up and running.
